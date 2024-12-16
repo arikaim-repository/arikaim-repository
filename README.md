@@ -1,4 +1,5 @@
 ## Hi there 👋
+  * Working remotely as a full stack web developer.
 
 
 #### Tech Stack
