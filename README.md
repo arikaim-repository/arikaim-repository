@@ -2,6 +2,9 @@
 
 
 #### Tech Stack
+
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+
 <!--
 **arikaim-repository/arikaim-repository** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
